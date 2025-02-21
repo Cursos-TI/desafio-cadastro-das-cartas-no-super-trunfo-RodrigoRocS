@@ -105,7 +105,7 @@ int main() {
    printf("População: %d\n", populacao2);
    printf("Área: %.2f\n", areakm2);
    printf("PIB: %.2f bilhões de reais\n", pib2);
-   printf("Número de Pontos Turísticos: %d\n", numeroPontosTuristicos2);
+   printf("Número de Pontos Turísticos: %d\n\n", numeroPontosTuristicos2);
 
    // Menu de atributos para comparação
 
